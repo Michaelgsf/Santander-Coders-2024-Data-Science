@@ -6,8 +6,8 @@ Este repositório contém os projetos desenvolvidos durante o curso de Data Scie
 
 O curso é composto pelos seguintes módulos:
 
-- **Lógica de Programação II (PY)**
-- **Técnicas de Programação I (PY)**
+- **Lógica de Programação II (Python)**
+- **Técnicas de Programação I (Python)**
 - **Banco de Dados I**
 - **Estatística I**
 - **Machine Learning I**
